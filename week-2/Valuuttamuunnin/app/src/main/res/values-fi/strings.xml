@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Valuuttamuunnin</string>
+    <string name="settings">Asetukset</string>
+    <string name="homeCurrencyNumber">0</string>
+    <string name="homeCurrencyHeader">EUR</string>
+    <string name="destinationCurrencyHeader">USD</string>
+    <string name="destinationCurrencyNumber">0</string>
+    <string name="back">Takaisin</string>
+    <string name="settings_editHomeCurrency">Lähdevaluutta</string>
+    <string name="settings_editDestinationCurrency">Kohdevaluutta</string>
+    <string name="conversionRate">1</string>
+    <string name="editConversionRate">Muuntokerroin</string>
+    <string name="convert">Muunna valuutta</string>
+    <string name="conversionRateWas">"Muuntokerroin oli "</string>
+    <string name="switchCurrencies">Vaihda valuutat</string>
+</resources>
