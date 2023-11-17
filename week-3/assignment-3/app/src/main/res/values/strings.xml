@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week-3-example</string>
+    <string name="button_clicked">Button Clicked</string>
+    <string name="click_me">Click Me</string>
+</resources>
