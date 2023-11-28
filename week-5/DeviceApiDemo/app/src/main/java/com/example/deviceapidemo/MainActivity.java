@@ -38,9 +38,9 @@ public class MainActivity extends AppCompatActivity {
 
         // Listataan kaikki sensorit ja tutkaillaan, mitä laitteesta löytyy
         List<Sensor> sensors = sensorManager.getSensorList(Sensor.TYPE_ALL);
-        for (Sensor s : sensors) {
-            Toast.makeText(this, s.getName(), Toast.LENGTH_SHORT).show();
-        }
+       // for (Sensor s : sensors) {
+       //     Toast.makeText(this, s.getName(), Toast.LENGTH_SHORT).show();
+       //  }
 
         // Rekisteröidytään kuuntelemaan kiihtyvyysanturin lukemia x y ja z
         Sensor accelerometer = sensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
