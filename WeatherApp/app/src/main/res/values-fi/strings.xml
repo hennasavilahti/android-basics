@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sääsovellus</string>
+    <string name="placeholder">Etsi kaupunkia...</string>
+    <string name="settings">Asetukset</string>
+    <string name="use_gps_location">Käytä GPS navigaatiota</string>
+    <string name="icon_for_weather">Kuva säälle</string>
+    <string name="go_back_button">Takaisinpäin nappi</string>
+    <string name="weather">Säädataa ei ole vielä olemassa</string>
+    <string name="get_data">Hae säädata</string>
+    <string name="refresh">Päivitä</string>
+    <string name="use_imperial_units">Käytä Brittiläistä yksikköjärjestelmää</string>
+    <string name="error">Virhe, yritä uudelleen.</string>
+    <string name="wind">Tuuli</string>
+    <string name="default_location">tampere</string>
+</resources>
